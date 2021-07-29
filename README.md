@@ -4,5 +4,7 @@ Ive used Blynk app for this project.
 <br>
 The app written with MIT Inventor.
 <br>
-<img src="https://github.com/Yogranov/SmartGate/blob/master/REAME_MEDIA/inventor.jpg" width="450" height="164" />
+App logic:
+<br>
+<img src="https://github.com/Yogranov/SmartGate/blob/master/REAME_MEDIA/inventor.jpg" width="600" height="450" />
 
