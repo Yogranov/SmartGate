@@ -1,5 +1,5 @@
-Small project to make my gate controled by mobile app. <br>
-Small bonus: guest link - generate single use token for you guests.
+Small project to make my gate controlled by mobile app. <br>
+Small bonus: guests link - generate single use token for your guests.
 <br>
 Ive used Blynk app for this project.
 <br>
